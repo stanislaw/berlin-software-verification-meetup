@@ -6,7 +6,7 @@
 - [About](#about)
 - [Meetup program](#meetup-program)
 - [Video recordings](#video-recordings)
-- [Announcements from the members of the meetup](#announcements-from-the-members-of-the-meetup)
+- [Announcements](#announcements)
 - [Contact the organizer](#contact-the-organizer)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
