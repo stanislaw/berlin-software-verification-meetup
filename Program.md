@@ -37,6 +37,8 @@ Agenda:
 - 18:30: Intro and Presentation
 - 19:30: Networking and drinks
 
+[Join this event](https://www.meetup.com/Berlin-Software-Verification-Meetup/events/268148643)
+
 ### Meetup #3: Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)
 
 I am happy to announce the third meetup and this time we are going to do it
@@ -74,6 +76,8 @@ Agenda:
 
 - 19:00: Intro and Presentation
 - 20:00-20:15: Time for questions
+
+[Join this event](https://www.meetup.com/Berlin-Software-Verification-Meetup/events/268653585)
 
 ## Past events
 
