@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+</head>
+<body>
+<textarea id="source">
+
+class: center, middle
+
+class: left, center
+
+# Introduction to Coq
+
+### Evgenii Kuznetcov
+### Adsquare GmbH
+### simpadjo@gmail.com
+---
+class: center, middle
+
+# Disclaimer: I have no idea what I'm doing
+<img src="Computer-Dog-023.jpg"  height="450" width="600" align="center">
+
+---
+class: center
+
+# Credits
+
+##"Software foundations" course (B. Pierce)
+##https://softwarefoundations.cis.upenn.edu/
+##(It is really good)
+---
+class: center
+
+# Usecases:
+
+##- proving mathematical theorems (4 colours problem)
+##- proving properties about formal systems (e.g. is my type system sound?)
+##- writing executable programs (CompCert C compiler)
+
+---
+class: center
+
+#Foundations:
+
+#Curry-Howard correspondence
+
+#Propositions ~>  Types
+#Proofs       ~>  Values (programs)
+
+---
+class: center
+
+#Workflow
+
+##pick a proposition ->
+##describe it as type ->
+##find an instance of this type ->
+##proposition is proven
+
+---
+class: center-left
+
+##- Powerful type system (dependent types)
+##- Tactics - "syntactic sugar" to build proofs
+##- Proof search
+##- Extraction - compiling into OCaml/Haskell
+
+
+---
+class: center
+
+# Time to code
+
+---
+class: center
+
+# Mathematical induction principle
+##P(n) - predicate
+##P(0) holds
+##P(k) holds follows P(k+1) holds
+##Then P(n) holds for all n
+
+---
+class: center
+# Advantages
+## vs static checkers (frama-c):
+###- programming and proofs are done in the same language
+## vs model checkers (tla+):
+###- can prove anything (well... almost)
+###- no incoherence between the model and the impl
+
+---
+class: center
+# Problems
+## quite hard
+## can't reason about space leaks, garbage collection
+## mismatch between Math numbers and machine numbers
+
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js">
+</script>
+<script>
+      var slideshow = remark.create();
+    </script>
+</body>
+</html>
