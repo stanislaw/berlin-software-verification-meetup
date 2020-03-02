@@ -5,8 +5,10 @@
 
 - [About](#about)
 - [Meetup program](#meetup-program)
+- [Slides](#slides)
 - [Video recordings](#video-recordings)
 - [Announcements](#announcements)
+- [Thanks to our hosts](#thanks-to-our-hosts)
 - [Contact the organizer](#contact-the-organizer)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -76,6 +78,18 @@ See [meetups](/meetups).
 
 - Fy! is looking for a
   [Software Verification Engineer in Berlin (intern)](https://fy.breezy.hr/p/9f3ca924e4aa01-intern-software-verification-engineer?source=www.google.com&popup=true).
+
+## Thanks to our hosts
+
+Big thanks to our hosts:
+
+- [The Digital Eatery](https://www.microsoft.com/de-de/berlin/digital-eatery.aspx)
+
+> for hosting the meetup #1
+
+- [TomTom](https://www.tomtom.com/de_de/)
+
+> for hosting the meetup #2
 
 ## Contact the organizer
 
