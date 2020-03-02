@@ -62,9 +62,15 @@ speakers we can find.
 
 See [Program](Program.md) for past and future events.
 
+## Slides
+
+See [meetups](/meetups).
+
 ## Video recordings
 
 - [Meetup #1: Software Verification for Developers (January 15, 2020)](https://www.youtube.com/watch?v=fBZNtu4TMz8)
+
+- [Meetup #2: Evgenii Kuznetcov – "Introduction to Coq theorem prover" (February 26, 2020)](https://www.youtube.com/watch?v=l9JSDnYB9_Y)
 
 ## Announcements
 

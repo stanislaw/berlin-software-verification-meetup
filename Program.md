@@ -4,40 +4,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Upcoming events](#upcoming-events)
-  - [Meetup #2: Meetup #2: Introduction to Coq theorem prover (February 26, 2020)](#meetup-2-meetup-2-introduction-to-coq-theorem-prover-february-26-2020)
   - [Meetup #3: Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)](#meetup-3-building-sw-everyone-can-trust-safety-requirements-in-automotive-applications-march-18-2020)
 - [Past events](#past-events)
   - [Meetup #1: Software Verification for Developers (January 15, 2020)](#meetup-1-software-verification-for-developers-january-15-2020)
+  - [Meetup #2: Introduction to Coq theorem prover (February 26, 2020)](#meetup-2-introduction-to-coq-theorem-prover-february-26-2020)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Upcoming events
-
-### Meetup #2: Meetup #2: Introduction to Coq theorem prover (February 26, 2020)
-
-I didn't have to look for the next speaker. He has found us!
-
-Evgenii Kuznetcov – "Introduction to Coq theorem prover"
-
-The abstract:
-
-> In this talk, I'm going to show the power of Coq proof assistant. We will go
-> through usage examples, do some live coding. In the meanwhile, I'll be making
-> an overview of beautiful ideas behind this language such as inductive data
-> types and Curry-Howard correspondence.
-
-> Evgenii Kuznetcov is a software developer at Adsquare. Functional programming
-> enthusiast.
-
-Location and time: February 26th, 18:00.
-
-Agenda:
-
-- 18:00: Open doors
-- 18:30: Intro and Presentation
-- 19:30: Networking and drinks
-
-[Join this event](https://www.meetup.com/Berlin-Software-Verification-Meetup/events/268148643)
 
 ### Meetup #3: Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)
 
@@ -112,3 +86,29 @@ Agenda:
 - 19:50: Intro
 - 20:00: Presentation
 - 21:00-22:00: Networking and drinks
+
+### Meetup #2: Introduction to Coq theorem prover (February 26, 2020)
+
+I didn't have to look for the next speaker. He has found us!
+
+Evgenii Kuznetcov – "Introduction to Coq theorem prover"
+
+The abstract:
+
+> In this talk, I'm going to show the power of Coq proof assistant. We will go
+> through usage examples, do some live coding. In the meanwhile, I'll be making
+> an overview of beautiful ideas behind this language such as inductive data
+> types and Curry-Howard correspondence.
+
+> Evgenii Kuznetcov is a software developer at Adsquare. Functional programming
+> enthusiast.
+
+Location and time: February 26th, 18:00.
+
+Agenda:
+
+- 18:00: Open doors
+- 18:30: Intro and Presentation
+- 19:30: Networking and drinks
+
+[Join this event](https://www.meetup.com/Berlin-Software-Verification-Meetup/events/268148643)
