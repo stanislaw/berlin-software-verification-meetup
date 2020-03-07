@@ -1,5 +1,7 @@
 # Berlin Software Verification Meetup
 
+<!-- <img align="right" width="160" src="logo/berlin-sw-meetup-logo.svg"> -->
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -12,6 +14,8 @@
 - [Contact the organizer](#contact-the-organizer)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+<br/>
 
 The meetup's events are announced on the
 [meetup.com](https://www.meetup.com/Berlin-Software-Verification-Meetup). To
