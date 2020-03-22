@@ -76,6 +76,8 @@ See [meetups](/meetups).
 
 - [Meetup #2: Evgenii Kuznetcov – "Introduction to Coq theorem prover" (February 26, 2020)](https://www.youtube.com/watch?v=l9JSDnYB9_Y)
 
+- [Meetup #3: Oleg Kirovskii – Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)](https://www.youtube.com/watch?v=oLG0R9cvfk8)
+
 ## Announcements
 
 - Fy! is looking for a
