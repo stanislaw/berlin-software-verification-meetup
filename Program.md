@@ -4,17 +4,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Upcoming events](#upcoming-events)
-  - [Meetup #4: MISRA C and its key role for the compliance to industrial safety standards (April 21, 2020)](#meetup-4-misra-c-and-its-key-role-for-the-compliance-to-industrial-safety-standards-april-21-2020)
+  - [Meetup #4 (online): MISRA C and its key role for the compliance to industrial safety standards (April 21, 2020)](#meetup-4-online-misra-c-and-its-key-role-for-the-compliance-to-industrial-safety-standards-april-21-2020)
 - [Past events](#past-events)
-  - [Meetup #1: Software Verification for Developers (January 15, 2020)](#meetup-1-software-verification-for-developers-january-15-2020)
-  - [Meetup #2: Introduction to Coq theorem prover (February 26, 2020)](#meetup-2-introduction-to-coq-theorem-prover-february-26-2020)
-  - [Meetup #3: Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)](#meetup-3-building-sw-everyone-can-trust-safety-requirements-in-automotive-applications-march-18-2020)
+  - [Meetup #1 (offline): Software Verification for Developers (January 15, 2020)](#meetup-1-offline-software-verification-for-developers-january-15-2020)
+  - [Meetup #2 (offline): Introduction to Coq theorem prover (February 26, 2020)](#meetup-2-offline-introduction-to-coq-theorem-prover-february-26-2020)
+  - [Meetup #3 (online): Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)](#meetup-3-online-building-sw-everyone-can-trust-safety-requirements-in-automotive-applications-march-18-2020)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Upcoming events
 
-### Meetup #4: MISRA C and its key role for the compliance to industrial safety standards (April 21, 2020)
+### Meetup #4 (online): MISRA C and its key role for the compliance to industrial safety standards (April 21, 2020)
 
 [Join this event](https://www.meetup.com/Berlin-Software-Verification-Meetup/events/269550463/)
 
@@ -59,7 +59,7 @@ Agenda:
 
 ## Past events
 
-### Meetup #1: Software Verification for Developers (January 15, 2020)
+### Meetup #1 (offline): Software Verification for Developers (January 15, 2020)
 
 Video recording: https://www.youtube.com/watch?v=fBZNtu4TMz8
 
@@ -93,7 +93,7 @@ Agenda:
 - 20:00: Presentation
 - 21:00-22:00: Networking and drinks
 
-### Meetup #2: Introduction to Coq theorem prover (February 26, 2020)
+### Meetup #2 (offline): Introduction to Coq theorem prover (February 26, 2020)
 
 Video recording: https://www.youtube.com/watch?v=l9JSDnYB9_Y
 
@@ -123,7 +123,7 @@ Agenda:
 - 18:30: Intro and Presentation
 - 19:30: Networking and drinks
 
-### Meetup #3: Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)
+### Meetup #3 (online): Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)
 
 Video recording: https://www.youtube.com/watch?v=oLG0R9cvfk8&feature=youtu.be
 
