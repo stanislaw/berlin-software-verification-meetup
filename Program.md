@@ -4,58 +4,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Upcoming events](#upcoming-events)
-  - [Meetup #4 (online): MISRA C and its key role for the compliance to industrial safety standards (April 21, 2020)](#meetup-4-online-misra-c-and-its-key-role-for-the-compliance-to-industrial-safety-standards-april-21-2020)
 - [Past events](#past-events)
   - [Meetup #1 (offline): Software Verification for Developers (January 15, 2020)](#meetup-1-offline-software-verification-for-developers-january-15-2020)
   - [Meetup #2 (offline): Introduction to Coq theorem prover (February 26, 2020)](#meetup-2-offline-introduction-to-coq-theorem-prover-february-26-2020)
   - [Meetup #3 (online): Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)](#meetup-3-online-building-sw-everyone-can-trust-safety-requirements-in-automotive-applications-march-18-2020)
+  - [Meetup #4 (online): MISRA C and its key role for the compliance to industrial safety standards (April 21, 2020)](#meetup-4-online-misra-c-and-its-key-role-for-the-compliance-to-industrial-safety-standards-april-21-2020)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Upcoming events
 
-### Meetup #4 (online): MISRA C and its key role for the compliance to industrial safety standards (April 21, 2020)
-
-[Join this event](https://www.meetup.com/Berlin-Software-Verification-Meetup/events/269550463/)
-
-Our fourth event is going to be an online event in the form of a webinar (\~75
-minutes). Zoom has proven to work well for us for the third meetup so we are
-also going to use it for this event.
-
-Let me introduce our next presenter:
-
-Roberto Bagnara – "MISRA C and its key role for the compliance to industrial
-safety standards"
-
-The abstract:
-
-```
-Embedded software plays a steadily increasing role in all industrial
-sectors, and in several such sectors software is responsible for functionality
-impacting the overall system safety and security. As a result an increasing
-number of companies and projects are required to comply to industry safety
-standards (CENELEC EN 50128, ECSS-Q-ST-80C, FDA "General Principles of Software
-Validation", IEC 61508, IEC 62304, ISO 26262, RTCA DO-178C). In this seminar we
-will focus on one of the key aspects of such standards: this is the possibility
-to program in subsets of standardized languages such as "C" or "C++". Starting
-from an introduction to the traps and pitfalls of the "C" programming language,
-we will present MISRA C, the most authoritative subset of "C" for the
-development of high-integrity systems.
-
-About Roberto: Roberto Bagnara is CTO and Chief Scientist at BUGSENG and
-professor of Computer Science at the University of Parma. He coauthored more
-than 40 papers, in international journals and conference proceedings, on
-programming languages, static analysis and other techniques for software
-verification. He started working on embedded systems' software in 1984, first at
-the University of Bologna (medical devices) and then at CERN (particle physics
-apparata) where he worked with Tim Berners-Lee. He is a member of the MISRA C
-Working Group and of the ISO JTC1/SC22/WG14 international standardization
-working group for the C programming language.
-```
-
-Agenda:
-
-18:00: Intro and Presentation 19:00-19:15: Time for questions
+To be announced.
 
 ## Past events
 
@@ -166,3 +125,46 @@ Agenda:
 
 - 19:00: Intro and Presentation
 - 20:00-20:15: Time for questions
+
+### Meetup #4 (online): MISRA C and its key role for the compliance to industrial safety standards (April 21, 2020)
+
+[Join this event](https://www.meetup.com/Berlin-Software-Verification-Meetup/events/269550463/)
+
+Our fourth event is going to be an online event in the form of a webinar (\~75
+minutes). Zoom has proven to work well for us for the third meetup so we are
+also going to use it for this event.
+
+Let me introduce our next presenter:
+
+Roberto Bagnara – "MISRA C and its key role for the compliance to industrial
+safety standards"
+
+The abstract:
+
+```
+Embedded software plays a steadily increasing role in all industrial
+sectors, and in several such sectors software is responsible for functionality
+impacting the overall system safety and security. As a result an increasing
+number of companies and projects are required to comply to industry safety
+standards (CENELEC EN 50128, ECSS-Q-ST-80C, FDA "General Principles of Software
+Validation", IEC 61508, IEC 62304, ISO 26262, RTCA DO-178C). In this seminar we
+will focus on one of the key aspects of such standards: this is the possibility
+to program in subsets of standardized languages such as "C" or "C++". Starting
+from an introduction to the traps and pitfalls of the "C" programming language,
+we will present MISRA C, the most authoritative subset of "C" for the
+development of high-integrity systems.
+
+About Roberto: Roberto Bagnara is CTO and Chief Scientist at BUGSENG and
+professor of Computer Science at the University of Parma. He coauthored more
+than 40 papers, in international journals and conference proceedings, on
+programming languages, static analysis and other techniques for software
+verification. He started working on embedded systems' software in 1984, first at
+the University of Bologna (medical devices) and then at CERN (particle physics
+apparata) where he worked with Tim Berners-Lee. He is a member of the MISRA C
+Working Group and of the ISO JTC1/SC22/WG14 international standardization
+working group for the C programming language.
+```
+
+Agenda:
+
+18:00: Intro and Presentation 19:00-19:15: Time for questions
