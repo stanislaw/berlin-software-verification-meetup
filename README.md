@@ -7,8 +7,11 @@
 
 - [About](#about)
 - [Meetup program](#meetup-program)
-- [Slides](#slides)
-- [Video recordings](#video-recordings)
+- [Slides, papers and video recordings](#slides-papers-and-video-recordings)
+  - [Meetup #1](#meetup-1)
+  - [Meetup #2](#meetup-2)
+  - [Meetup #3](#meetup-3)
+  - [Meetup #4](#meetup-4)
 - [Announcements](#announcements)
 - [Thanks to our hosts](#thanks-to-our-hosts)
 - [Contact the organizer](#contact-the-organizer)
@@ -66,17 +69,31 @@ speakers we can find.
 
 See [Program](Program.md) for past and future events.
 
-## Slides
+## Slides, papers and video recordings
 
-See [meetups](/meetups).
+Slides can be found here: [/meetups](/meetups).
 
-## Video recordings
+### Meetup #1
 
-- [Meetup #1: Software Verification for Developers (January 15, 2020)](https://www.youtube.com/watch?v=fBZNtu4TMz8)
+- Video:
+  [Meetup #1: Software Verification for Developers (January 15, 2020)](https://www.youtube.com/watch?v=fBZNtu4TMz8)
 
-- [Meetup #2: Evgenii Kuznetcov – "Introduction to Coq theorem prover" (February 26, 2020)](https://www.youtube.com/watch?v=l9JSDnYB9_Y)
+### Meetup #2
 
-- [Meetup #3: Oleg Kirovskii – Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)](https://www.youtube.com/watch?v=oLG0R9cvfk8)
+- Video:
+  [Meetup #2: Evgenii Kuznetcov – "Introduction to Coq theorem prover" (February 26, 2020)](https://www.youtube.com/watch?v=l9JSDnYB9_Y)
+
+### Meetup #3
+
+- Video:
+  [Meetup #3: Oleg Kirovskii – Building SW everyone can trust: Safety requirements in Automotive applications (March 18, 2020)](https://www.youtube.com/watch?v=oLG0R9cvfk8)
+
+### Meetup #4
+
+- Paper:
+  [The MISRA C Coding Standard: A Key Enabler for the Development of Safety-and Security-Critical Embedded Software](https://www.bugseng.com/filebrowser/download/32)
+
+- Paper: [That's C, baby. C!](https://www.bugseng.com/filebrowser/download/38)
 
 ## Announcements
 
