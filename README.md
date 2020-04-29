@@ -90,6 +90,8 @@ Slides can be found here: [/meetups](/meetups).
 
 ### Meetup #4
 
+- Video: [Roberto Bagnara – MISRA C and its key role for the compliance to industrial safety standards](https://www.youtube.com/watch?v=Bv4emdGVAuk)
+
 - Paper:
   [The MISRA C Coding Standard: A Key Enabler for the Development of Safety-and Security-Critical Embedded Software](https://www.bugseng.com/filebrowser/download/32)
 
