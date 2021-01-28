@@ -5,6 +5,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [About](#about)
 - [Meetup program](#meetup-program)
 - [Slides, papers and video recordings](#slides-papers-and-video-recordings)
@@ -12,7 +13,6 @@
   - [Meetup #2](#meetup-2)
   - [Meetup #3](#meetup-3)
   - [Meetup #4](#meetup-4)
-- [Announcements](#announcements)
 - [Thanks to our hosts](#thanks-to-our-hosts)
 - [Contact the organizer](#contact-the-organizer)
 
