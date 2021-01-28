@@ -97,11 +97,6 @@ Slides can be found here: [/meetups](/meetups).
 
 - Paper: [That's C, baby. C!](https://www.bugseng.com/filebrowser/download/38)
 
-## Announcements
-
-- Fy! is looking for a
-  [Software Verification Engineer in Berlin (intern)](https://fy.breezy.hr/p/9f3ca924e4aa01-intern-software-verification-engineer?source=www.google.com&popup=true).
-
 ## Thanks to our hosts
 
 Big thanks to our hosts:
